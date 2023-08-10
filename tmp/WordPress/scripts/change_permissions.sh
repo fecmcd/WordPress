@@ -1,1 +1,2 @@
-chmod -R 755 /var/www/html/WordPress
+#!/bin/bash
+chmod -R 777 /var/www/html/WordPress
